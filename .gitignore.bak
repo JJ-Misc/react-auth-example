@@ -1,0 +1,11 @@
+*/*
+.meteor
+.ngrok
+.node-gyp
+.npm
+.nvm
+.prisma
+.quokka
+.ssh
+.udacity-terminal-config
+.vscode-server

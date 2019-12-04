@@ -1,5 +1,4 @@
 /usr/share/rvm/gems/ruby-2.6.3/bin:
-
 /usr/share/rvm/gems/ruby-2.6.3@global/bin:
 /usr/share/rvm/rubies/ruby-2.6.3/bin:
 /usr/share/rvm/bin:
