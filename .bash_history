@@ -156,3 +156,12 @@ git commit -am "added ignore"
 git push
 git push --set-upstream origin master
 git status
+irb
+git status
+git status
+git add .
+git commit -am "update with flatiron files"
+git push origin master
+git mv rsvp TAP/rsvp
+git status
+exit
