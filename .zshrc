@@ -77,8 +77,11 @@ plugins=(
     )
 
 
-ZSH_THEME="agnoster" # (this is one of the fancy ones)
+ZSH_THEME="dogenpunk" # 
 # see https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
+
+## set colors for LS_COLORS
+eval `dircolors ~/.dircolors`
 
 source $ZSH/oh-my-zsh.sh
 

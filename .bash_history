@@ -291,3 +291,9 @@ zsh --version
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 exit
 exit
+ls
+git status
+git add .
+git commit-am "more zsh"
+git commit -am "more zsh"
+git push
