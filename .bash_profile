@@ -27,3 +27,8 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
+# NOTE: I added the below stuff from .profile. But I haven't tested it b/c I then switched to zsh. 
+
+# set PATH so it includes user's private bin directories
+PATH="$HOME/bin:$HOME/.local/bin:$PATH"
+eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
