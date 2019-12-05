@@ -72,10 +72,10 @@
     # Editors
     # Tells your shell that when a program requires various editors, use sublime.
     # The -w flag tells your shell to wait until sublime exits
-    export VISUAL="atom"
-    export SVN_EDITOR="atom"
-    export GIT_EDITOR="atom"
-    export EDITOR="atom"
+    export VISUAL="code"
+    export SVN_EDITOR="code"
+    export GIT_EDITOR="code"
+    export EDITOR="code"
 
     # Version
     # What version of the Flatiron School bash profile this is
@@ -155,6 +155,11 @@ function extract () {
 
 # Aliases
 # =====================
+
+  # Common Commands
+
+  # Directories
+
   # LS
   alias l='ls -lah'
 
@@ -171,6 +176,10 @@ function extract () {
   alias gcam="git commit -am"
   alias gbb="git branch -b"
 
+  # Aliases for typos of other aliases!
+
+# Let there be color in grep!
+export GREP_OPTIONS=' — color=auto'
 
 # Case-Insensitive Auto Completion
   bind "set completion-ignore-case on"

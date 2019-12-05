@@ -165,3 +165,7 @@ git push origin master
 git mv rsvp TAP/rsvp
 git status
 exit
+git status
+git add .
+git commit -am "zshrc.zsh attempt"
+git push
