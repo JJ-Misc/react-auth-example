@@ -1,0 +1,5 @@
+use MyDatabase;
+db.userInfo.insert({'username':'admin', 'password':'admin'});
+db.userInfo.insert({'username':'julian', 'password':'1234'});
+db.userInfo.find()
+db.userInfo.findOne({'username':'admin'});

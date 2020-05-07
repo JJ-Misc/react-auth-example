@@ -114,4 +114,4 @@ export LANG=en_US.UTF-8
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-
+alias dbb='/mnt/c/Windows/System32/cmd.exe /c "db"'

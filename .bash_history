@@ -297,3 +297,21 @@ git add .
 git commit-am "more zsh"
 git commit -am "more zsh"
 git push
+npm i mongoose --save
+node index.js
+npm i passport-facebook
+npm i passport-twitter
+npm i passport-github
+git add .
+git commit -am "added fb, twitter, github auth login"
+git status
+git init
+git add .
+git commit -am "initial"
+parentUl.querySelectorAll("li")
+git remote add origin git@github.com:julianjohannesen/node-debug-practice.git
+git push -u origin master
+exit
+ls
+cd ..
+ls
