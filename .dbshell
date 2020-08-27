@@ -3,3 +3,51 @@ db.userInfo.insert({'username':'admin', 'password':'admin'});
 db.userInfo.insert({'username':'julian', 'password':'1234'});
 db.userInfo.find()
 db.userInfo.findOne({'username':'admin'});
+show dbs
+show users
+show roles
+show collections
+use react-auth
+show collections
+show users
+db.collection
+collection
+db.collection.find('*')
+db.collection.find('a')
+db.collection.find('')
+db.collection.find('email')
+db.collection.find({})
+db.react-auth.find({})
+coll = react-auth.collection
+react-auth
+react_auth
+dbs
+use react-auth
+coll = react-auth.collection
+coll=react-auth.collection
+coll="react-auth.collection"
+coll.find({})
+coll
+use react-auth
+db
+users
+user
+roles
+role
+show dbs
+use react-auth
+show collections
+show users
+use react-auth
+show collections
+show users
+show dbs
+use react-auth
+show react-auth
+react-auth
+list react-auth
+react-auth.find( {} )
+db.find( {} )
+db.react-auth.find( {} )
+dbs
+show dbs

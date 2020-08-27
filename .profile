@@ -44,3 +44,7 @@ eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
 # Heroku
 export PATH="/mnt/c/Program Files/heroku/bin/heroku:$PATH"
+
+# Deno path
+export DENO_INSTALL="/home/julian/.deno"
+export PATH="$DENO_INSTALL/bin:$PATH"
