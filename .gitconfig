@@ -1,4 +1,4 @@
-#[core]
+[core]
   whitespace=fix,-indent-with-non-tab,trailing-space,cr-at-eol
   excludesfile = ~/julian/.gitignore
 [alias]
@@ -25,12 +25,12 @@
   token = <API token> # https://github.com/settings/applications
   email = "julian.johannesen@gmail.com"
 [github "user"]
-  user = <github username>
+  user = julianjohannesen
   token = <API token>
-  email = <github email address>
+  email = julian.johannesen@gmail.com
 [user]
-  name = <github username>
-  email = <github email address>
+  name = julianjohannesen
+  email = julian.johannesen@gmail.com
 [color]
   ui = true
   diff = auto
@@ -50,6 +50,3 @@
   trustExitCode = true
 [merge]
   tool = opendiff
-[core]
-	whitespace = trailing-space,-space-before-tab,indent-with-non-tab,cr-at-eol
-	excludesfile = /home/julian/.gitignore_global
