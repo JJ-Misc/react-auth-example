@@ -51,3 +51,8 @@ db.find( {} )
 db.react-auth.find( {} )
 dbs
 show dbs
+show dbs
+use react-auth
+show react-auth
+show collections
+db.users.find( {} )

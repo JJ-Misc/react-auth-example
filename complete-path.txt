@@ -1,0 +1,41 @@
+zsh: no such file or directory: 
+/home/julian/.vscode-server/bin/3dd905126b34dcd4de81fa624eb3a8cbe7485f13/bin:
+/home/julian/.nvm/versions/node/v14.5.0/bin:
+/usr/local/sbin:
+/usr/local/bin:
+/usr/sbin:
+/usr/bin:
+/sbin:
+/bin:
+/usr/games:
+/usr/local/games:
+/mnt/c/Program Files (x86)/Intel/iCLS Client/:
+/mnt/c/Program Files/Intel/iCLS Client/:
+/mnt/c/WINDOWS/system32:
+/mnt/c/WINDOWS:
+/mnt/c/WINDOWS/System32/Wbem:
+/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:
+/mnt/c/Program Files/dotnet/:
+/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn/:
+/mnt/c/Program Files/nodejs/:
+/mnt/c/ProgramData/chocolatey/bin:
+/mnt/c/HashiCorp/Vagrant/bin:
+/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:
+/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:
+/mnt/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT:
+/mnt/c/Program Files/Intel/Intel(R) Management Engine Components/IPT:
+/mnt/c/WINDOWS/System32/OpenSSH/:
+/mnt/c/Program Files/Microsoft VS Code/bin:
+/mnt/c/Program Files/PuTTY/:
+/mnt/c/Program Files/Git/cmd:
+/mnt/c/Program Files/Git/mingw64/bin:
+/mnt/c/Program Files/Git/usr/bin:
+/mnt/c/Users/julia/AppData/Local/Microsoft/WindowsApps:
+/mnt/c/Users/julia/AppData/Roaming/npm:
+/mnt/c/Program Files/Microsoft VS Code/bin:
+/mnt/c/Users/julia/AppData/Local/.meteor:
+/mnt/c/Users/julia/AppData/Local/atom/bin:
+/mnt/c/Users/julia/AppData/Local/GitHubDesktop/bin:
+/mnt/c/Program Files/heroku/bin:
+/mnt/c/Program Files (x86)/GitHub CLI/:
+/mnt/c/Users/julia/AppData/Local/Programs/Fiddler

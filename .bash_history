@@ -315,3 +315,4 @@ exit
 ls
 cd ..
 ls
+npm start
